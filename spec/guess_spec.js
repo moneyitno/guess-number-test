@@ -1,4 +1,4 @@
-describe("random_number", function () {
+describe("guess_number", function () {
 
 
     beforeEach(function () {
