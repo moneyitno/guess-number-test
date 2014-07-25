@@ -1,6 +1,7 @@
 guessCountBy = function () {
     var count = JSON.parse(localStorage.getItem('countNumber')) || 0;
     var printNumber = getNumber();
+
     if (count == 6) {
         count = 0;
     }

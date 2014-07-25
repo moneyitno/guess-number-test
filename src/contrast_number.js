@@ -1,7 +1,3 @@
-getNumber = function () {
-    return [1, 2, 3, 4]
-};
-
 contrast = function (random, print) {
     var a = 0;
     for (var i = 0; i < 4; i++) {
