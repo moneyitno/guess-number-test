@@ -6,7 +6,7 @@ describe("contrast_number", function () {
     });
     it("contrast number 0A0B", function () {
         var status = contrast([1,2,3,4],[5,6,7,8]);
-
+console.log(status)
         expect(status).toEqual("0A0B");
     });
 
