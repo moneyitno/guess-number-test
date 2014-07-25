@@ -36,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/spec/random_number_spec.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="48" />
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -52,21 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guess.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="guess.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/guess.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26821193" vertical-offset="0" max-vertical-offset="604">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contrast_number_spec.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="contrast_number_spec.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/contrast_number_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8344371" vertical-offset="0" max-vertical-offset="648">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -110,8 +110,8 @@
         <option value="$PROJECT_DIR$/src/contrast_number.js" />
         <option value="$PROJECT_DIR$/random_number.html" />
         <option value="$PROJECT_DIR$/spec/guess_spec.js" />
-        <option value="$PROJECT_DIR$/spec/contrast_number_spec.js" />
         <option value="$PROJECT_DIR$/src/guess.js" />
+        <option value="$PROJECT_DIR$/spec/contrast_number_spec.js" />
       </list>
     </option>
   </component>
@@ -450,14 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/random_number_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/random_number.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.851851" vertical-offset="67" max-vertical-offset="702">
@@ -474,10 +466,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/contrast_number_spec.js">
+    <entry file="file://$PROJECT_DIR$/src/guess.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -490,10 +482,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/guess.js">
+    <entry file="file://$PROJECT_DIR$/spec/random_number_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26821193" vertical-offset="0" max-vertical-offset="604">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/contrast_number_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8344371" vertical-offset="0" max-vertical-offset="648">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
           <folding />
         </state>
       </provider>
